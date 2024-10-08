@@ -1,0 +1,406 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "c2067ed2-8bf6-442a-9ed1-54bceff9d733",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name = \"Sakshi sable\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "c132c37c-b3b0-494d-802a-2b8e53603337",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Sakshi sable'"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "931ba5e4-cddb-4a6f-88ba-8ff135489f93",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Convert it into capslock"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "84bf8e4a-466e-405d-ae6c-4a34b7b5e924",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'SAKSHI SABLE'"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name.upper()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "1d454efd-86a0-4694-b5ba-f320c8fb549b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Sakshi sable'"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "184e6c7d-b141-4a0e-8472-688782aecdd2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name=name.upper()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "776f101e-c0d2-4d87-88f8-19541c2bfa7c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "011595a9-00e7-4519-8be3-e0993d69ac18",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'sakshi sable'"
+      ]
+     },
+     "execution_count": 23,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name.lower()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "1c1ee492-6d4a-436e-841b-b5cf2a13dbce",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'SAKSHI SABLE'"
+      ]
+     },
+     "execution_count": 24,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "id": "145bb1e7-4f4c-4930-9151-aac7d39ade57",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name = name.lower()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "18078da3-9d2e-45b4-9265-a8484c52b91e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'sakshi sable'"
+      ]
+     },
+     "execution_count": 28,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "9e5dcd08-962d-468a-9c8a-b6359fceead5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name1= \"KRiShna GanBOTe\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "28d5a0c7-2672-4fba-bd96-d82bd70a23cc",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'krishna ganbote'"
+      ]
+     },
+     "execution_count": 32,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name1.lower()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "9adc58a4-114b-43b6-acd5-75416f87955d",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'krIsHNA gANbotE'"
+      ]
+     },
+     "execution_count": 42,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name1.swapcase()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "id": "dae8e4d1-2920-489f-bed0-d28748e7d3ac",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name2 = \"    Vijayalaxmi   Gurav    \""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "id": "1440c3f9-4441-4535-9893-34894431b8f0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Vijayalaxmi   Gurav    '"
+      ]
+     },
+     "execution_count": 60,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name2.lstrip()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 61,
+   "id": "b19c1935-dddf-49fe-91aa-54c55242eb87",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'    Vijayalaxmi   Gurav    '"
+      ]
+     },
+     "execution_count": 61,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 62,
+   "id": "9e956961-7c79-4f6f-a5f7-daf5222f9870",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'    Vijayalaxmi   Gurav'"
+      ]
+     },
+     "execution_count": 62,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name2.rstrip()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 66,
+   "id": "c949ccb8-d3fd-4020-9b3a-6454a6f60460",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Arya Jadhav'"
+      ]
+     },
+     "execution_count": 66,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "name3 = \"Arya Jadhav\"\n",
+    "name3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 76,
+   "id": "5bb80944-a279-476d-9b29-8b2fe6688e06",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Bring this output \n",
+    "#**** Arya Jadhav****"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 78,
+   "id": "f3db985a-ffd3-4bc0-b180-2d9b181d99d7",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (156952025.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[78], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    name 4 = \"Shreya Nagame\"\u001b[0m\n\u001b[0m         ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "name 4 = \"Shreya Nagame\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 79,
+   "id": "708f25c8-aeed-4869-b5ab-a7e145fcfc4d",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'name4' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[79], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m name4\u001b[38;5;241m.\u001b[39misupper()\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'name4' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "name4.isupper()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7e250ec3-c25d-46e3-84ea-7ac94de0ec5e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
